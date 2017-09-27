@@ -2,7 +2,7 @@
 | Home | [Projects](PROJECTS.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Our GitHub](http://www.github.com/josephworks) |
 |------|-------------------------|-----------------------------|-----------------------|-------------------------------------------------|
 You are here!
-
+------
 Welcome to Josephworks' official GitHub page.
 
 josephworks is also known as Joseph or EmeraldTnt.
