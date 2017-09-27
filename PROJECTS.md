@@ -6,4 +6,4 @@
 # Projects
 
 ------
-To see more projects goto our github at github.com/josephworks
+To see more projects goto our github at [Our GitHub](http://github.com/josephworks)
