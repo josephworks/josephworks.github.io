@@ -6,4 +6,4 @@
 # Projects
 
 ------
-<center>To see more projects goto [Our GitHub](http://www.github.com/josephworks)</center>
+<center>To see more projects goto our github at github.com/josephworks</center>
