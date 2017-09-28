@@ -3,6 +3,4 @@
 |-------------------|-------------------------|:-------:|-----------------------------|-----------------------|-------------------------------------------------|
 |||You are here!
 ------
-<div class="something" markdown="1">
-  <iframe src="https://www.w3schools.com" markdown="1"></iframe>
-</div>
+{{< myshortcode >}}<iframe src="https://www.w3schools.com" markdown="1"></iframe>{{< /myshortcode >}}
