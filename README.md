@@ -10,7 +10,9 @@ josephworks is also known as Joseph or EmeraldTnt.
 # My goal:
 1. Make usefull repositories.
 2. Help others be better at coding.
-3. Help Orginizations grow
+3. Help Orginizations grow.
+4. Learn 5+ computer languages.
+5. Offer a variaty of projects.
 
 # Host/Test server
 
