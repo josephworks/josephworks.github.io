@@ -10,4 +10,5 @@
 ![SwissArmyDrive-Logo](https://avatars1.githubusercontent.com/u/32178618?v=4&s=400&u=f3db733c454bee60592955bb0ee122be5acf6828)
 
 [SwissArmyDrive](https://github.com/SwissArmyDrive), Want a SwissArmyDrive. If you do check out this orginization!
-[SwissArmyDrive](https://github.com/SwissArmyDrive) is powered by [portableapps](https://portableapps.com/apps/)
+
+[SwissArmyDrive](https://github.com/SwissArmyDrive) is powered by [PortableApps](https://portableapps.com/apps/).
