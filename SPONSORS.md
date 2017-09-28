@@ -3,3 +3,6 @@
 |-------------------|-------------------------|:-------:|-----------------------------|-----------------------|-------------------------------------------------|
 ||||You are here!
 ------
+![GwenRemake-Logo](https://avatars0.githubusercontent.com/u/31381689?v=4&s=200)
+
+[GWENRemake-project](https://github.com/GWENRemake-Project), A project to attempt a remake of the GWEN anticheat that isn't trash :D
