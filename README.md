@@ -7,6 +7,11 @@ Welcome to Josephworks' official GitHub page.
 
 josephworks is also known as Joseph or EmeraldTnt.
 
+# My goal:
+1. Make usefull repositories.
+2. Help others be better at coding.
+3. Help Orginizations grow
+
 # Host/Test server
 
 IP - 184.101.32.161
