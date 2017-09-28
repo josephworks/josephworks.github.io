@@ -5,6 +5,6 @@
 ------
 {::nomarkdown}
 
-<iframe src="http://myip.com" style="border:0px #ffffff none;" name="Jenkins" scrolling="no" frameborder="1" height="720px" width="720px" allowfullscreen></iframe>
+<iframe src="http://myip.com" style="border:0px #ffffff none;" name="Jenkins" height="720px" width="720px" allowfullscreen></iframe>
 
 {:/}
