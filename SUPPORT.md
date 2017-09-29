@@ -1,4 +1,4 @@
-# Support on discord
+# Support on Discord
 
-# Support on freshdesk/freshservice
+# Support on Freshdesk/Freshservice
 
