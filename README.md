@@ -1,7 +1,6 @@
 # josephworks.github.io
 | Home | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Our GitHub](http://www.github.com/josephworks) |
 |------|-------------------------|-----------------------|-----------------------------|-----------------------|-------------------------------------------------|
-|You are here!|
 
 ------
 Welcome to the Josephworks official GitHub page.
