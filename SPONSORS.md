@@ -1,7 +1,7 @@
 # josephworks.github.io
-| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | Our Sponsors | [Discord](DISCORD.md) | [Our GitHub](http://www.github.com/josephworks) |
-|-------------------|-------------------------|:-------:|-----------------------------|-----------------------|-------------------------------------------------|
-||||You are here!
+| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](github.com/josephworks) |
+|-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
+|||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
 ------
 
 ![GwenRemake-Logo](https://avatars0.githubusercontent.com/u/31381689?v=4&s=200)
