@@ -1,7 +1,7 @@
 # josephworks.github.io
-| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | Discord | [Our GitHub](http://www.github.com/josephworks) |
-|-------------------|-------------------------|:-------:|-----------------------------|-----------------------|-------------------------------------------------|
-|||||You are here!
+| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](github.com/josephworks) |
+|-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
+||||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
 ------
 # GitHub Discord
 Hi, everyone.
