@@ -1,3 +1,7 @@
+# Support
+| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](github.com/josephworks) |
+|-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
+| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
 # Support on Discord
 This is the best way to contact us *For Now*.
 
