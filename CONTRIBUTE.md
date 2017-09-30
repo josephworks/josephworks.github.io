@@ -4,4 +4,6 @@
 ||||||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
 ------
 # Ways to contribute:
----
+
+1. Join our discord or direct message me. 
+For our discord click [Discord](DISCORD.md)
