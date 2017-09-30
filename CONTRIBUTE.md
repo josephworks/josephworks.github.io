@@ -5,8 +5,9 @@
 ------
 # Ways to contribute:
 
-1. Join our discord or direct message me. 
+# Thru Discord:
+Join our discord or direct message me. 
 
-  For our discord click [Discord](DISCORD.md).
+For our discord click [Discord](DISCORD.md).
 
-  Talking to us may give us an idea of what you would like to see in our projects!
+Talking to us may give us an idea of what you would like to see in our projects!
