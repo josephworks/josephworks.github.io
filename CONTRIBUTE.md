@@ -20,3 +20,8 @@ You can also use it for giving suggestions.
 To give suggestions go to [https://josephworks.freshservice.com](https://josephworks.freshservice.com) and click on *Request new service*.
 
 We will look at the request and accept or reject it *With a reason!*
+
+# Through GitHub:
+Feel free to Fork, Pull request, use the issue tracker, and everything else *You have permission* to do!
+
+Please do not claim ownership of our code! If you do that will result in a immediant takedown request.
