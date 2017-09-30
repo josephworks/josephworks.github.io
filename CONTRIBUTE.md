@@ -7,8 +7,6 @@
 There are multiple ways to contribute.
 Contributing helps us make better repositories and projects!
 You do not have to contribute. If you use our code often then we recomend that you contribute!
-We also will except money contributions/donations
-If you like what we are working on and heavily rely on it than a money donation will help us improve what you like!
 
 # Through Discord:
 Join our discord or direct message me. 
@@ -32,4 +30,12 @@ Feel free to Fork, Pull request, use the issue tracker, and everything else *You
 Please *do not claim ownership of our code!* If you do that will result in a immediant takedown request.
 
 # Through Donations/Money:
+We also will except money contributions/donations.
 
+If you like what we are working on and heavily rely on it than a money donation will help us improve what you like!
+
+If you would like us to create a big project and we have the proper funding for it we will make that our top priority!
+
+All you have to do is provide *Valid* proof that you donated and send us a message and we will do whatever the message requests!
+
+*Donation methods comming soon!*
