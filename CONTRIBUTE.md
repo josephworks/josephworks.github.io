@@ -1,2 +1,5 @@
 # How to contribute!
-
+| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](github.com/josephworks) |
+|-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
+||||||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
+------
