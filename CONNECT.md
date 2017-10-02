@@ -13,3 +13,6 @@
 IP format http://184.101.32.161:%port%
 
 Get the port from the chart.
+
+------
+<p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>
