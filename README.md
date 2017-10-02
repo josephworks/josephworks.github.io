@@ -15,7 +15,7 @@ josephworks is also known as Joseph or EmeraldTnt.
 5. Offer a variaty of projects.
 
 # Test servers and services
-For test servers and free cool services go to [Connect](CONNECT.md)
+For test servers and free services go to [Connect](CONNECT.md)
 
 ------
 <p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>
