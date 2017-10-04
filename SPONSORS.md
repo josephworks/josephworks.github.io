@@ -13,6 +13,9 @@
 [SwissArmyDrive](https://github.com/SwissArmyDrive), Want a SwissArmyDrive. If you do check out this orginization!
 
 [SwissArmyDrive](https://github.com/SwissArmyDrive) is powered by [PortableApps](https://portableapps.com/apps/).
+------
+![dillinger-Logo](https://pbs.twimg.com/profile_images/1639545833/dillinger_twitter_avator_256x256_400x400.png)
 
+[Dillinger](https://dillinger.io/) is one of the fundimentals used to code this website!
 ------
 <p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>
