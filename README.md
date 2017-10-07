@@ -7,6 +7,8 @@ Welcome to the Josephworks official GitHub page.
 
 josephworks is also known as Joseph or EmeraldTnt.
 
+Need help with *ANYTHING*? If so go to [Our discord](DISCORD.md)
+
 # My goals
 1. Make useful repositories.
 2. Help others be better at coding.
