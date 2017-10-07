@@ -13,6 +13,7 @@ josephworks is also known as Joseph or EmeraldTnt.
 3. Help organizations grow.
 4. Learn 5+ computer languages.
 5. Offer a variaty of projects.
+6. Do 10+ commits daily on github
 
 # Test servers and services
 For test servers and free services go to [Connect](CONNECT.md)
