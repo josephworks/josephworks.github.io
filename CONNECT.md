@@ -11,7 +11,7 @@
 | [Jenkins](http://184.101.84.53:8080) | 8080 |
 | [Nexus](http://184.101.84.53:8081)   | 8081 |
 
-IP format http://184.101.32.161:%port%
+IP format http://184.101.84.53:%port%
 
 Get the port from the chart.
 
