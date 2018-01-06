@@ -2,12 +2,15 @@
 | [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](http://github.com/josephworks) |
 |-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
 || You are here!     |                         |                       |                             |                       |                       |                             |                                      |
+
 ---
+
 # Projects
 
 ---
 
 # Serverbuilder
+
 A shell (Linux) application to build minecraft servers.
 
 I did more then 100 commits on this resource.
@@ -16,6 +19,7 @@ I also made it a lite resource which means it wont use up that much disk space u
 ---
 
 # Gwen-Remade
+
 An attempt to recreate mac or Mineplex Anti Cheat]
 
 It comes with configs to some of the best anticheats.
@@ -27,6 +31,7 @@ This project was a fork of NulledZenforo's watchdog remake.
 ---
 
 # MinecraftMultiversion
+
 Paperclip equipted with plugins to make it support every multiplayer version
 MinecraftMultiversion supported 1.4.7 - 1.12.2
 the paperclip.jar that the server uses is actually 1.11.2 and not 1.12.2
@@ -40,6 +45,7 @@ This fixed all of my problems and added support for 1.12.2 and many versions lat
 ---
 
 # ThermosServer
+
 was a template for me to create modded servers with plugins (mainly 1.7.10)
 
 it is a compact resource with most of the files being libraries for thermos.jar
@@ -50,5 +56,7 @@ Come to think of it all I did with PaperThermos is set up a jenkins project and 
 ---
 
 To see more projects goto our github at [Our GitHub](http://github.com/josephworks)
+
 ---
+
 <p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>

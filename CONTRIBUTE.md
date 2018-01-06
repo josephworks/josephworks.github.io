@@ -3,6 +3,7 @@
 | [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Our Sponsors](SPONSORS.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](http://github.com/josephworks) |
 |-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
 ||||||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
+
 ------
 
 # Ways to contribute:
@@ -41,11 +42,14 @@ We also will except money contributions/donations.
 
 If you like what we are working on and heavily rely on it than a money donation will help us improve what you like!
 
-If you would like us to create a big project and we have the proper funding for it we will make that our top priority!
+If you would like us to create a big project and you provide the proper funding for it, we will make that our top priority!
 
 All you have to do is provide *Valid* proof that you donated and send us a message and we will do whatever the message requests!
 
-*Donation methods comming soon!*
+# Donation methods:
+
+> PayPal: paypal.me/emeraldtnt
 
 ------
+
 <p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>
