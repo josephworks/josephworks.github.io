@@ -22,6 +22,8 @@ Need help with *ANYTHING*? If so go to [Our discord](DISCORD.md) or [Support](SU
 5. Offer a variaty of projects.
 6. Do 10+ commits daily on github
 
+***I reached 1000 commits at Monday, January 29, 2018***
+
 # Test servers and services
 
 For test servers and free services go to [Connect](CONNECT.md)
