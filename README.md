@@ -24,7 +24,7 @@ Need help with *ANYTHING*? If so go to [Our discord](DISCORD.md) or [Support](SU
 
 ***I reached 1000 commits on Monday, January 29, 2018***
 
-# Notice
+# Notice - About goals
 
 I have ***reached 1000 commits on Monday, January 29, 2018*** and I have had 10 commits or more a day from Jan 1 2018 to febuary 9 2018. The reason it does not show up as this is cause one of best repositories called WebIDE was accidentally deleted. This mistake removed many of my recent commits.
 
