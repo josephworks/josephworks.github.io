@@ -4,13 +4,6 @@
 |||||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
 ------
 
-# Support Us by Mining
-
-<script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
-<div class="coinhive-miner" style="width: 256px; height: 310px" data-key="c4g09mepCDMj1qm6K8n498Qz3Bau40k6">
- <em>Loading...</em>
-</div>
-
 # Support on Discord
 This is the best way to contact us *For Now*.
 
