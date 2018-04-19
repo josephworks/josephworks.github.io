@@ -1,4 +1,4 @@
-theme: jekyll-theme-kayman
+theme: jekyll-theme-cayman
 url: "https://josephworks.github.io/" # the base hostname & protocol for your site
 plugins:
   - jekyll-gist
