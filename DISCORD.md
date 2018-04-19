@@ -8,19 +8,17 @@
 
 # GitHub Discord
 
-'''text
 Hi, everyone.
 I have made a GitHub discord server. It is currently unnoficial but it is a great place for developers to talk, code, debate, and discuss.
-If you are interested join by opening this link. https://discord.gg/ZMUSYjy
-'''
+If you are interested, join by clicking this link: https://discord.gg/ZMUSYjy
 
 # My Discord
 
-If you would like to direct message me my discord is emerald tnt#7908
+If you would like to direct message me my discord is 
 
-I would be able to help in less than a day!
+***emerald tnt#7908***
 
-# Even more Comming Soon!
+I am on discord 24/7!
 
 ------
 
