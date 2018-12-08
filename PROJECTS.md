@@ -33,7 +33,6 @@ An artificial intelligence coded by Google's ApiAI now called [DialogFlow](https
 
 ---
 
-
 # Serverbuilder
 
 A shell (Linux) application to build minecraft servers.
@@ -53,6 +52,20 @@ Our team consisted of about 3 people, Me, ItzSomebody, ByteCode, and NulledXenfo
 This project was a fork of NulledZenforo's watchdog remake.
 
 ---
+
+# HelpDesk
+
+A HelpDesk WebApp for my school to promote software development by helping teachers with technical issues.
+
+---
+
+# JenkinsServer
+
+A lightweight script to install and start a jenkins server.
+
+---
+
+#
 
 # MinecraftMultiversion
 
