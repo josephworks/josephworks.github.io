@@ -31,6 +31,9 @@ A place for me to dump my Windows cli environment programs. Many of them are for
 
 An artificial intelligence coded by Google's ApiAI now called [DialogFlow](https://dialogflow.com) my latest artificial intelligence is now closed source for now.
 
+---
+
+
 # Serverbuilder
 
 A shell (Linux) application to build minecraft servers.
@@ -45,8 +48,7 @@ I also made it a lite resource which means it wont use up that much disk space u
 An attempt to recreate mac or Mineplex Anti Cheat]
 
 It comes with configs to some of the best anticheats.
-It also has a working animation that is similar to the animation on mineplex
-I did more then 100 commits on this repository and i had help from another orginization trying to recreate gwen.
+It also has a working animation that is similar to the animation on mineplex! I did more then 100 commits on this repository and I had help from another orginization trying to recreate gwen.
 Our team consisted of about 3 people, Me, ItzSomebody, ByteCode, and NulledXenforo
 This project was a fork of NulledZenforo's watchdog remake.
 
