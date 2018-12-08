@@ -7,6 +7,12 @@
 
 # Projects
 
+# AtomMC (Abandoned)
+
+Atom is a Minecraft server core which is based on MinecraftForge and CraftBukkit for 1.12.2 version of Minecraft.
+
+Also some parts of the code are taken from such project as Spigot and its derivatives.
+
 ---
 
 # Serverbuilder
