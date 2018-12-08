@@ -33,7 +33,7 @@ An artificial intelligence coded by Google's ApiAI now called [DialogFlow](https
 
 ---
 
-# Serverbuilder
+# ServerBuilder
 
 A shell (Linux) application to build minecraft servers.
 
@@ -83,9 +83,27 @@ the paperclip.jar that the server uses is actually 1.11.2 and not 1.12.2
 I used protocolsupport to support 1.4.7 - 1.11.2 and viaversion to support 1.11.2 - 1.12.2
 The reason I made this is cause at the time I had about 20 running minecraft servers, then the latest minecraft came out...
 When I switched out the main server jarfile most of the plugins stopped working, data got corrupted, and players couldnt join.
-I also got news from devs saying it will take them months to update to the latest version of minecraft so i did something smart.
+I also got news from devs saying it will take them months to update to the latest version of minecraft so I did something smart.
 I DOWNGRADED! Even though the latest version of minecraft was stable I still dont consider it stable. 1.11.2 has been out for a while and plugins have adapted to it, so I desided to create Minecraft Multiversion.
 This fixed all of my problems and added support for 1.12.2 and many versions later.
+
+---
+
+# PaperCraft / PaperTestServer / SpigotServer
+
+Open-Source, LightWeight, Premade Paper and spigot servers!
+
+---
+
+# Regestry Edits
+
+Simple Windows 7 - 10 Regestry edits!
+
+---
+
+# Scripts
+
+Useful scripts for installing linux and more!
 
 ---
 
@@ -100,7 +118,19 @@ Come to think of it all I did with PaperThermos is set up a jenkins project and 
 
 ---
 
-To see more projects goto our github at [Our GitHub](http://github.com/josephworks)
+# WebIDE
+
+An IDE Built For web browsers. A long term project that I personally spent alot of time developing.
+
+---
+
+# UltimateLinux
+
+An ultimate script created for linux!
+
+---
+
+To see more projects go to [Our GitHub](http://github.com/josephworks).
 
 ---
 
