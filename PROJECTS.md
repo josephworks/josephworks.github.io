@@ -71,6 +71,10 @@ Open-Source curse/twitch modpacks that you can contribute to.
 
 ---
 
+# McCompile
+
+Everything that my jenkins server does but in one script. Compiles about every known minecraft server software.
+
 # MinecraftMultiversion
 
 Paperclip equipted with plugins to make it support every multiplayer version
