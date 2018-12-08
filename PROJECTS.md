@@ -19,6 +19,18 @@ Also some parts of the code are taken from such project as Spigot and its deriva
 
 An attempt to use spigot's commands.yml to mask bukkit commands and use MultiVerse Worlds as a Service (MVWaaS)
 
+---
+
+# CMDWorkspaceTools
+
+A place for me to dump my Windows cli environment programs. Many of them are for Rooting Android.
+
+---
+
+# Gideon (Now Named Computer)
+
+An artificial intelligence coded by Google's ApiAI now called [DialogFlow](https://dialogflow.com) my latest artificial intelligence is now closed source for now.
+
 # Serverbuilder
 
 A shell (Linux) application to build minecraft servers.
