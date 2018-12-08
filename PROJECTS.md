@@ -15,6 +15,10 @@ Also some parts of the code are taken from such project as Spigot and its deriva
 
 ---
 
+# BungeeSpigot
+
+An attempt to use spigot's commands.yml to mask bukkit commands and use MultiVerse Worlds as a Service (MVWaaS)
+
 # Serverbuilder
 
 A shell (Linux) application to build minecraft servers.
