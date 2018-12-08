@@ -9,16 +9,17 @@
 # Ways to contribute:
 
 There are multiple ways to contribute.
-Contributing helps us make better repositories and projects!
-You do not have to contribute. If you use our code often then we recomend that you contribute!
+Contributing helps us improve our repositories and projects!
+If you use our code often then we recomend that you contribute by submitting issues and pull requests!
+You do not have to contribute. 
 
 # Through Discord:
 
 Join our discord or direct message me. 
 
-For our discord click [Discord](DISCORD.md).
+Click [here](DISCORD.md) to see information about how you can reach us through [Discord](DISCORD.md).
 
-Talking to us may give us an idea of what you would like to see in our projects!
+Talking to us may give us ideas of future projects!
 
 # Through Helpdesk:
 
@@ -28,27 +29,31 @@ You can also use it for giving suggestions.
 
 To give suggestions go to [https://josephworks.freshservice.com](https://josephworks.freshservice.com) and click on *Request new service*.
 
-We will look at the request and accept or reject it *With a reason!*
+We will look at the request and accept or reject it **With a reason!**
 
 # Through GitHub:
 
-Feel free to Fork, Pull request, use the issue tracker, and everything else *You have permission* to do!
+Feel free to Fork, Pull request, use the issue tracker, and everything else that **You have permission** to do!
 
-Please *do not claim ownership of our code!* If you do that will result in a immediant takedown request.
+You will be able to claim our code if you make an adequate ammount of changes to the code, but be sure to **Give us some Credit!**
 
 # Through Donations/Money:
 
 We also will except money contributions/donations.
 
-If you like what we are working on and heavily rely on it than a money donation will help us improve what you like!
+If you like what we are working on or heavily rely on it, than a money donation will help us improve what you like!
 
 If you would like us to create a big project and you provide the proper funding for it, we will make that our top priority!
 
-All you have to do is provide *Valid* proof that you donated and send us a message and we will do whatever the message requests!
+All you have to do is provide **Valid** proof that you donated and send us a message and we will do whatever you request!
 
 # Donation methods:
 
 > PayPal: paypal.me/emeraldtnt
+
+> Google Pay: smartech56@gmail.com
+
+> Zelle: smartech56@gmail.com
 
 ------
 

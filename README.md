@@ -9,9 +9,16 @@ Welcome to the Josephworks official GitHub page.
 
 josephworks is also known as Joseph or EmeraldTnt.
 
-Need help with **ANYTHING**? If so go to [Our discord](DISCORD.md) or [Support](SUPPORT.md)
+Need help with **ANYTHING**? 
+If so go to [Our discord](DISCORD.md) or [Support](SUPPORT.md).
 
-> Donate with PayPal: paypal.me/emeraldtnt
+# Donation methods:
+
+> PayPal: paypal.me/emeraldtnt
+
+> Google Pay: smartech56@gmail.com
+
+> Zelle: smartech56@gmail.com
 
 # My goals
 
