@@ -65,7 +65,11 @@ A lightweight script to install and start a jenkins server.
 
 ---
 
-#
+# MCAdventure / MCEmeraldtnt
+
+Open-Source curse/twitch modpacks that you can contribute to.
+
+---
 
 # MinecraftMultiversion
 
