@@ -5,9 +5,9 @@
 
 ---
 
-# Projects
+## Projects
 
-# AtomMC (Abandoned)
+## AtomMC (Abandoned)
 
 Atom is a Minecraft server core which is based on MinecraftForge and CraftBukkit for 1.12.2 version of Minecraft.
 
@@ -15,25 +15,25 @@ Also some parts of the code are taken from such project as Spigot and its deriva
 
 ---
 
-# BungeeSpigot
+## BungeeSpigot
 
 An attempt to use spigot's commands.yml to mask bukkit commands and use MultiVerse Worlds as a Service (MVWaaS)
 
 ---
 
-# CMDWorkspaceTools
+## CMDWorkspaceTools
 
 A place for me to dump my Windows cli environment programs. Many of them are for Rooting Android.
 
 ---
 
-# Gideon (Now Named Computer)
+## Gideon (Now Named Computer)
 
 An artificial intelligence coded by Google's ApiAI now called [DialogFlow](https://dialogflow.com) my latest artificial intelligence is now closed source for now.
 
 ---
 
-# ServerBuilder
+## ServerBuilder
 
 A shell (Linux) application to build minecraft servers.
 
@@ -42,7 +42,7 @@ I also made it a lite resource which means it wont use up that much disk space u
 
 ---
 
-# Gwen-Remade
+## Gwen-Remade
 
 An attempt to recreate mac or Mineplex Anti Cheat]
 
@@ -53,29 +53,29 @@ This project was a fork of NulledZenforo's watchdog remake.
 
 ---
 
-# HelpDesk
+## HelpDesk
 
 A HelpDesk WebApp for my school to promote software development by helping teachers with technical issues.
 
 ---
 
-# JenkinsServer
+## JenkinsServer
 
 A lightweight script to install and start a jenkins server.
 
 ---
 
-# MCAdventure / MCEmeraldtnt
+## MCAdventure / MCEmeraldtnt
 
 Open-Source curse/twitch modpacks that you can contribute to.
 
 ---
 
-# McCompile
+## McCompile
 
 Everything that my jenkins server does but in one script. Compiles about every known minecraft server software.
 
-# MinecraftMultiversion
+## MinecraftMultiversion
 
 Paperclip equipted with plugins to make it support every multiplayer version
 MinecraftMultiversion supported 1.4.7 - 1.12.2
@@ -89,25 +89,25 @@ This fixed all of my problems and added support for 1.12.2 and many versions lat
 
 ---
 
-# PaperCraft / PaperTestServer / SpigotServer
+## PaperCraft / PaperTestServer / SpigotServer
 
 Open-Source, LightWeight, Premade Paper and spigot servers!
 
 ---
 
-# Regestry Edits
+## Regestry Edits
 
 Simple Windows 7 - 10 Regestry edits!
 
 ---
 
-# Scripts
+## Scripts
 
 Useful scripts for installing linux and more!
 
 ---
 
-# ThermosServer
+## ThermosServer
 
 was a template for me to create modded servers with plugins (mainly 1.7.10)
 
@@ -118,13 +118,13 @@ Come to think of it all I did with PaperThermos is set up a jenkins project and 
 
 ---
 
-# WebIDE
+## WebIDE
 
 An IDE Built For web browsers. A long term project that I personally spent alot of time developing.
 
 ---
 
-# UltimateLinux
+## UltimateLinux
 
 An ultimate script created for linux!
 
