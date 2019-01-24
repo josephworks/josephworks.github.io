@@ -5,16 +5,14 @@
 ||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
 ------
 
-# Direct IP - [71.209.181.36](http://71.209.181.36)
-
 # Domain - [josephworks.ddns.net](http://josephworks.ddns.net)
 
 | Name  | port |
 |---------|------|
-| [Jenkins](http://71.209.181.36:8080) | 8080 |
-| [Nexus](http://71.209.181.36:8081)   | 8081 |
+| [Jenkins](http://josephworks.ddns.net:8080) | 8080 |
+| [Nexus](http://josephworks.ddns.net:8081)   | 8081 |
 
-IP format http://71.209.181.36:%port%
+IP format http://josephworks.ddns.net:%port%
 
 Get the port from the chart.
 
