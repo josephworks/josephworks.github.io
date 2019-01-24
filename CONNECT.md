@@ -9,8 +9,9 @@
 
 | Name  | port |
 |---------|------|
+| [Homepage](http://josephworks.ddns.net:80)   | 80 |
+| [NextCloud](http://josephworks.ddns.net:8081)   | 85 |
 | [Jenkins](http://josephworks.ddns.net:8080) | 8080 |
-| [Nexus](http://josephworks.ddns.net:8081)   | 8081 |
 
 IP format http://josephworks.ddns.net:%port%
 
