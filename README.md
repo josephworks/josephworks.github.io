@@ -5,7 +5,7 @@
 
 ------
 
-Welcome to the Josephworks official GitHub page.
+Welcome to the Josephworks' official GitHub page.
 
 josephworks is also known as Joseph or EmeraldTnt.
 
@@ -27,13 +27,13 @@ If so go to [Our discord](DISCORD.md) or [Support](SUPPORT.md).
 3. Help organizations grow.
 4. Learn 5+ computer languages.
 5. Offer a variaty of projects.
-6. Do 10+ commits daily on github
+6. Do 10+ commits daily on github.
 
 ***I reached 1000 commits on Monday, January 29, 2018***
 
-# Test servers and services
+# Test Servers and Services
 
-For test servers and free services go to [Connect](CONNECT.md)
+For test servers and free services go to [Connect](CONNECT.md)!
 
 ------
 <p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>
