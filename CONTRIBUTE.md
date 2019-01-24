@@ -21,7 +21,7 @@ Click [here](DISCORD.md) to see information about how you can reach us through [
 
 Talking to us may give us ideas of future projects!
 
-# Through Helpdesk:
+# Through Helpdesk (Depreciated):
 
 Helpdesk isn't just for recieving help.
 
