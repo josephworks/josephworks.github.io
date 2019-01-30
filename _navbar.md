@@ -1,0 +1,7 @@
+* [Home](/)
+* [Projects](/zh-cn/)
+* [Connect](CONNECT.md)
+* [Discord](DISCORD.md)
+* [Support](SUPPORT.md)
+* [Contribute](CONTRIBUTE.md)
+* [Our GitHub](http://github.com/josephworks)
