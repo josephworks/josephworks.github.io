@@ -1,11 +1,8 @@
-<script>
-  window.$docsify = {
-    loadNavbar: true
-  }
-</script>
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
 # Support
+| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](http://github.com/josephworks) |
+|-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
+|||||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
+------
 
 # Support on Discord
 This is the best way to contact us *For Now*.
