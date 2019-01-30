@@ -1,5 +1,3 @@
-<!-- index.html -->
-
 <script>
   window.$docsify = {
     loadNavbar: true
