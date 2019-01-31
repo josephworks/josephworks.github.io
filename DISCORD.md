@@ -1,18 +1,13 @@
-# josephworks.github.io
+{% include nav.html %}
+# Discord
 
-| [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](http://github.com/josephworks) |
-|-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
-||||| You are here!     |                         |                       |                             |                       |                       |                             |                                      |
-
-------
-
-# GitHub Discord
+## GitHub Discord
 
 Hi, everyone.
 I have made a GitHub discord server. It is currently unnoficial but it is a great place for developers to talk, code, debate, and discuss.
 If you are interested, join by clicking this link: https://discord.gg/ZMUSYjy
 
-# My Discord
+## My Discord
 
 If you would like to direct message me my discord is 
 
