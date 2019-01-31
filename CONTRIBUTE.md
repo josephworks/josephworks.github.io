@@ -49,7 +49,3 @@ All you have to do is provide **Valid** proof that you donated and send us a mes
 > Google Pay: smartech56@gmail.com
 
 > Zelle: smartech56@gmail.com
-
-------
-
-<p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>

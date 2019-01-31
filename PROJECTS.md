@@ -125,7 +125,3 @@ An ultimate script created for linux!
 ---
 
 To see more projects go to [Our GitHub](http://github.com/josephworks).
-
----
-
-<p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>

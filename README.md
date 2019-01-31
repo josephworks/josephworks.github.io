@@ -30,6 +30,3 @@ If so go to [Our discord](DISCORD.md) or [Support](SUPPORT.md).
 # Test Servers and Services
 
 For test servers and free services go to [Connect](CONNECT.md)!
-
-------
-<p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>

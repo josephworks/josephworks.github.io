@@ -14,7 +14,3 @@ If you would like to direct message me my discord is
 ***emerald tnt#7908***
 
 I am on discord 24/7!
-
-------
-
-<p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>

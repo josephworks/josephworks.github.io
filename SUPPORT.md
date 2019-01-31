@@ -14,6 +14,3 @@ If you do go to [Our Freshdesk](https://josephworks.freshservice.com/support/hom
 For now we will be using [Discord](https://discordapp.com/) as our main source of communication and support.
 
 If you do not get a responce in one week go to [Our Freshdesk](https://josephworks.freshservice.com/support/home)!
-
-------
-<p align="center">Having problems viewing this page? If so go to https://github.com/josephworks/josephworks.github.io/blob/master/README.md </p>
