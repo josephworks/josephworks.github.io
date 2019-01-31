@@ -1,3 +1,4 @@
+{% include nav.html %}
 # Homepage
 | [Home](README.md) | [Projects](PROJECTS.md) | [Connect](CONNECT.md) | [Discord](DISCORD.md) | [Support](SUPPORT.md) | [Contribute](CONTRIBUTE.md) | [Our GitHub](http://github.com/josephworks) |
 |-------------------|-------------------------|-----------------------|-----------------------------|-----------------------|-----------------------|-----------------------------|--------------------------------------|
