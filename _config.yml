@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: JosephWorks
-url: "https://josephworks.github.io/" # the base hostname & protocol for your site
+url: "https://josephworks.github.io/"
 description: Welcome to Joseph Robinson's(JosephWorks') Website!
 plugins:
   - jekyll-gist
