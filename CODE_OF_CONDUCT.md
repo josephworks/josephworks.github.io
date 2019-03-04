@@ -1,3 +1,4 @@
+{% include nav.html %}
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
