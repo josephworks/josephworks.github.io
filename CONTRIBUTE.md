@@ -5,7 +5,7 @@
 
 There are multiple ways to contribute.
 Contributing helps us improve our repositories and projects!
-If you use our code often then we recomend that you contribute by submitting issues and pull requests!
+If you use our code often then we recommend that you contribute by submitting issues and pull requests!
 You do not have to contribute. 
 
 # Through Discord:
@@ -18,7 +18,7 @@ Talking to us may give us ideas of future projects!
 
 # Through Helpdesk (Depreciated):
 
-Helpdesk isn't just for recieving help.
+Helpdesk isn't just for receiving help.
 
 You can also use it for giving suggestions.
 
