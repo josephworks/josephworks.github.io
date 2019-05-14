@@ -1,0 +1,5 @@
+# Joseph's Speech
+
+'''
+Yes, Mister Clarke should get the award because he is a superior human and shares his knowledge with the lesser-good people. But that is ok because now the lesser-good people can become more-better people in the most important field, software development and app design. He also helps the Lesser-good people in long distance track and he helps make them better people in running long distance. He is also good at helping people maintain the status "Living" and "Well". With mister Clark winning the teacher of the year, he can make people even more better and keep more people living. He is good human and does good human things as a teacher like helping people learn. It is completely and totally necessary to give mister Clark teacher of the year so he can be the best teacher of the year. We can now create exe files for Microsoft Windows due to mister Clark's shared knowledge. Also, so this is valid I will have to write up to 200 words on why your teacher is worthy of this award. * so these are my 200 words on why mister Clark should win the Best teacher of the year award for this year.
+'''
