@@ -9,7 +9,7 @@ josephworks is also known as Joseph or EmeraldTnt.
 Need help with **ANYTHING**?
 If so go to [Our discord](DISCORD.md) or [Support](SUPPORT.md).
 
-## Donation methods:
+## Donation methods
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
