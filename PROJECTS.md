@@ -1,4 +1,5 @@
 {% include nav.html %}
+
 # Projects
 
 ## AtomMC
@@ -17,7 +18,7 @@ An attempt to use spigot's commands.yml to mask bukkit commands and use MultiVer
 
 ## CMDWorkspaceTools
 
-A place for me to dump my Windows cli environment programs. Many of them are for Rooting Android.
+A place for me to dump my Windows cli environment programs. Many of them are for Rooting / Modifying Android.
 
 ---
 
@@ -97,7 +98,9 @@ Simple Windows 7 - 10 Regestry edits!
 
 ## Scripts
 
-Useful scripts for installing linux and more!
+Useful scripts for linux and more!
+
+The windows equivelent is CMDWorkspaceTools.
 
 ---
 
