@@ -1,6 +1,6 @@
-# Homepage
-
 {% include nav.html %}
+
+# Homepage
 
 Welcome to the Josephworks' official GitHub page.
 
