@@ -1,14 +1,15 @@
 {% include nav.html %}
+
 # Contribute
 
-# Ways to contribute:
+# Ways to contribute
 
 There are multiple ways to contribute.
 Contributing helps us improve our repositories and projects!
 If you use our code often then we recommend that you contribute by submitting issues and pull requests!
 You do not have to contribute. 
 
-# Through Discord:
+# Through Discord
 
 Join our discord or direct message me. 
 
@@ -16,23 +17,13 @@ Click [here](DISCORD.md) to see information about how you can reach us through [
 
 Talking to us may give us ideas of future projects!
 
-# Through Helpdesk (Depreciated):
-
-Helpdesk isn't just for receiving help.
-
-You can also use it for giving suggestions.
-
-To give suggestions go to [https://josephworks.freshservice.com](https://josephworks.freshservice.com) and click on *Request new service*.
-
-We will look at the request and accept or reject it **With a reason!**
-
-# Through GitHub:
+# Through GitHub
 
 Feel free to Fork, Pull request, use the issue tracker, and everything else that **You have permission** to do!
 
 You will be able to claim our code if you make an adequate ammount of changes to the code, but be sure to **Give us some Credit!**
 
-# Through Donations/Money:
+# Through Donations/Money
 
 We also will except money contributions/donations.
 
@@ -42,7 +33,7 @@ If you would like us to create a big project and you provide the proper funding 
 
 All you have to do is provide **Valid** proof that you donated and send us a message and we will do whatever you request!
 
-# Donation methods:
+# Donation methods
 
 > PayPal: paypal.me/emeraldtnt
 
