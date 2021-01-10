@@ -12,5 +12,5 @@
 | [BitBucket](http://josephworks.net:7990)     | 7990 |
 | [Jenkins](http://ci.josephworks.net)         | 8080 |
 | [Nexus](http://repo.ddns.net)                | 8081 |
-| [Minecraft](josephworks.ddns.net)            | 25565|
+| [Minecraft](josephworks.net)                 | 25565|
 | [Minecraft](mcvps.ddns.net)                  | 25565|
