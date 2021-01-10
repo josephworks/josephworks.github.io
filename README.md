@@ -28,15 +28,10 @@ If so go to [Our discord](DISCORD.md) or [Support](SUPPORT.md).
 ## My goals
 
 1. Make useful repositories.
-
 2. Help others learn to code.
-
 3. Help GitHub organizations grow.
-
 4. Learn 5+ computer languages.
-
 5. Offer a variaty of projects.
-
 6. Do 10+ commits daily on GitHub.
 
 **_I have reached 1000 commits on Monday, January 29, 2018_**
