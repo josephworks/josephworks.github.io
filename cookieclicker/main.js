@@ -1127,7 +1127,6 @@ Game.Launch=function()
 		l('javascriptError').style.display='none';
 		Game.timedout=false;
 		Game.time=Date.now();
-		Game.cookies=1000000000000000000000000000000000000000000000000000000000000
 		Game.accumulatedDelay=0;
 		Game.delayTimeouts=0;
 		Game.lastActivity=Date.now();
@@ -1196,7 +1195,7 @@ Game.Launch=function()
 		}
 		
 		Game.cookiesEarned=0;//all cookies earned during gameplay
-		Game.cookies=0;//cookies
+		Game.cookies=1000000000000000000000000000000000000000000000000000000000000000;//cookies
 		Game.cookiesd=0;//cookies display
 		Game.cookiesPs=1;//cookies per second (to recalculate with every new purchase)
 		Game.cookiesReset=0;//cookies lost to resetting (used to determine prestige and heavenly chips)
