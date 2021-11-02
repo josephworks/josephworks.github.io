@@ -1733,7 +1733,7 @@ Game.Launch=function()
 		Game.ExportSave=function()
 		{
 			Game.prefs.showBackupWarning=0;
-			Game.cookies+=100000000000000000000000000000000000000000000000000000000000000000000;
+			//Game.cookies=100000000000000000000000000000000000000000000000000000000000000000000;
 			Game.Prompt('<h3>Export save</h3><div class="block">This is your save code.<br>Copy it and keep it somewhere safe!</div><div class="block"><textarea id="textareaPrompt" style="width:100%;height:128px;" readonly>'+Game.WriteSave(1)+'</textarea></div>',['All done!']);//prompt('Copy this text and keep it somewhere safe!',Game.WriteSave(1));
 			l('textareaPrompt').focus();l('textareaPrompt').select();
 		}
