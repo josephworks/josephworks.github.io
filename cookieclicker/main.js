@@ -1127,6 +1127,7 @@ Game.Launch=function()
 		l('javascriptError').style.display='none';
 		Game.timedout=false;
 		Game.time=Date.now();
+		Game.cookies=1000000000000000000000000000000000000000000000000000000000000
 		Game.accumulatedDelay=0;
 		Game.delayTimeouts=0;
 		Game.lastActivity=Date.now();
@@ -1147,8 +1148,6 @@ Game.Launch=function()
 		Game.drawT=0;
 		Game.loopT=0;
 		Game.fps=30;
-		
-		Game.cookies=100000000000000000000000000000000000000000000000000000000000000000000;
 		
 		Game.season=Game.baseSeason;
 		
